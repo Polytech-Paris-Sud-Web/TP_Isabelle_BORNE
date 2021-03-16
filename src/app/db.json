@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "My First Article",
+      "content": "Hello World",
+      "authors": "Orangefire"
+    },
+    {
+      "id": 2,
+      "title": "Angular component",
+      "content": "Angular component looks awesome!",
+      "authors": "Orangefire"
+    },
+    {
+      "title": "Fake Title",
+      "content": "aaaa",
+      "authors": "aaaa",
+      "id": 3
+    },
+    {
+      "title": "titre lambda",
+      "content": "Testa",
+      "authors": "testb",
+      "id": 4
+    },
+    {
+      "title": "Fake Title 33333",
+      "content": "Content test",
+      "authors": "Authors test",
+      "id": 5
+    },
+    {
+      "title": "Olaf",
+      "content": "Olaf le plus beau",
+      "authors": "Olaf B",
+      "id": 6
+    }
+  ]
+}
